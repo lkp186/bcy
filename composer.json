@@ -1,0 +1,17 @@
+{
+    "name": "lkp/bcy",
+    "authors": [
+        {
+            "name": "lkp186",
+            "email": "1242580740@qq.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Lkp\\Bcy\\": "src"
+        }
+    }
+}
